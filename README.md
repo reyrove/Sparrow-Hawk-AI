@@ -1,4 +1,4 @@
-# 🐦💻 **Sparrow Hawk AI** – *Where Code Goes BOOM with Creativity!* 🎨⚡️
+# 🐦**Sparrow Hawk AI** – *Where Code Goes BOOM with Creativity!* 
 
 Welcome to **Sparrow Hawk AI** – a mind-blowing fusion of human imagination and machine magic! 🧠🤖 This vibrant collection is powered by **Reyrove’s** vision and lovingly co-crafted with **Sparrow Hawk**, your favorite code-slinging AI sidekick. 💅✨
 
