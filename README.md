@@ -79,8 +79,11 @@ These pieces? 🔥 Made with **p5.js**, JavaScript, and a sprinkle of stardust. 
 ## 🧾💖 **License & Love**
 
 Open-source and open-hearted. Modify, remix, and share – but always credit **Reyrove & Sparrow Hawk (AI)**. Let’s build this dreamy code-art community together! 🌍💫
+<<<<<<< HEAD
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+=======
+>>>>>>> 2813e49c6689e63545f163bbb58cdf486b3f5188
 
 ---
 
@@ -93,4 +96,8 @@ Let's collaborate, code, or just vibe together!
 ---
 
 With pixels, passion, and pizzazz,  
+<<<<<<< HEAD
 **Reyrove & Sparrow Hawk AI** 💙🖌️💻
+=======
+**Reyrove & Sparrow Hawk AI** 💙🖌️💻
+>>>>>>> 2813e49c6689e63545f163bbb58cdf486b3f5188
